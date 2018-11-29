@@ -1,4 +1,4 @@
-# For Seattle hosts: what makes your home popular?
+# Seattle Airbnb data analyzed : what makes a home popular?
 
 ### Project motivation:
 In this project, Seattle Airbnb dataset was analyzed to uncover trends in popular listings in Seattle area.
@@ -6,7 +6,7 @@ In this project, Seattle Airbnb dataset was analyzed to uncover trends in popula
 
 
 ### Files:
-'seattle_airbnb.ipynb': jupyter notebook of the analysis
+'seattle airbnb analysis.ipynb': jupyter notebook of the analysis
 
 
 
@@ -20,17 +20,20 @@ In this project, Seattle Airbnb dataset was analyzed to uncover trends in popula
  
  
 ### Summary of results:
+ - Rating system is not very informative
  - Low price is the key feature of popular homes
  - Popular homes require shorter minimum stay, provide greater availability and give faster response 
- - Review score is not a good indicator of popularity
  - Hosts can consider adding some popular amenities in their homes
   
   
   
 ### Licensing:
-Data used in this project were provided by Kaggle.com (https://www.kaggle.com/airbnb/seattle/home) with no cost.
+Open public data from Kaggle.com were used in this study.
   
   
   
 ### Acknowledgements:
+kaggle.com (https://www.kaggle.com/airbnb/seattle/home)
 stackoverflow.com (please find specific link in the notebook)
+Josh Bernhard's post (https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711)
+
