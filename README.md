@@ -1,7 +1,7 @@
 # Seattle Airbnb data analyzed : what makes a home popular?
 
 ### Project motivation:
-In this project, Seattle Airbnb dataset was analyzed to uncover trends in popular listings in Seattle area.
+In this project, Seattle Airbnb data were analyzed to uncover trend in popular listings in Seattle area.
 
 
 
@@ -28,7 +28,7 @@ In this project, Seattle Airbnb dataset was analyzed to uncover trends in popula
   
   
 ### Licensing:
-Open public data from Kaggle.com were used in this study.
+Open data from airbnb via Kaggle.com were used in this study.
   
   
   
