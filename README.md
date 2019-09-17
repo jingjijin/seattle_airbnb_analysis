@@ -32,10 +32,6 @@ Open data from airbnb via Kaggle.com were used in this study.
 
 
 
-### Blog post:
-There is also a blog post of this study: https://medium.com/@jinjingji0506/seattle-airbnb-data-analyzed-what-makes-a-home-popular-831ba5421252
-  
-  
   
 ### Acknowledgements:
 kaggle.com (https://www.kaggle.com/airbnb/seattle/home)
